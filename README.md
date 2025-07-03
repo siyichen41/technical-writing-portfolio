@@ -24,14 +24,14 @@ Here you'll find a collection of what I have done to promote myself for future c
 ## ✨ Featured Projects
 
 <!-- Add links and short descriptions of your favorite or most proud projects below -->
-- [Project Name](https://github.com/siyichen41/project-name): Short description of what this project does.
-- [Another Project](https://github.com/siyichen41/another-project): Another brief description.
+- [Project Name](https://github.com/siyichen41/project-name): How to be a TW
+- [Another Project](https://github.com/siyichen41/another-project): Terms collection
 
 ---
 
 ## 📫 Connect with Me
 
-- [Email](13717601318@163.com)
+- [Email]():13717601318@163.com
 
 ---
 
