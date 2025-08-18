@@ -4,7 +4,7 @@
 
 Trados Studio​ 和 ​Oxygen XML Author​ 可以非常有效地结合使用，是处理 XML 内容本地化的推荐工作流程
 
-1. 术语库和翻译库的建立和维护，例如：
+## 术语库和翻译库的建立和维护，例如：
 
 |CHS|EN|来源|
 |---|---|---|
@@ -12,7 +12,7 @@ Trados Studio​ 和 ​Oxygen XML Author​ 可以非常有效地结合使用�
 |补光灯|Auxiliary Light|Mavic 4 Pro|
 |电池卡扣|Battery Buckles|Mavic 4 Pro|
 
-2. 两个工具软件之间的文档转化：
+## 两个工具软件之间的文档转化：
    Oxygen创建xliff文档---提取内容，保留标签对属性---在trados中打开对应文档进行翻译或审校---保存xllif文档，回到Oxygen
 
 **优点:**
