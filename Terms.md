@@ -11,6 +11,8 @@ Trados Studio​ 和 ​Oxygen XML Author​ 可以非常有效地结合使用�
 |一体式云台相机|Gimbal and Cameral|Mavic 4 Pro|
 |补光灯|Auxiliary Light|Mavic 4 Pro|
 |电池卡扣|Battery Buckles|Mavic 4 Pro|
+|低空经济|Low-altitude Economy|2024年政府工作报告|
+|电动垂直起降飞行器|electric Vertical Take-off and Landing|2022年民航局|
 
 ## 两个工具软件之间的文档转化：
    Oxygen创建xliff文档---提取内容，保留标签对属性---在trados中打开对应文档进行翻译或审校---保存xllif文档，回到Oxygen
