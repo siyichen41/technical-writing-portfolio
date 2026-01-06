@@ -1,27 +1,26 @@
-# 👋 Hi there, I'm Siyichen!
+# 陈思怡 - 技术文档工程师成长路径
 
-Welcome to my GitHub profile!  
-Here you'll find a collection of what I have done to promote myself for future career, including projects and learning process.
+## 🎯 目标
+从英语外贸成功转行至技术文档工程师，专注于创建清晰、准确、用户友好的技术内容。
 
----
+## 🛠️ 核心技能
+- **技术写作**：Markdown, 结构化写作，用户指南编写
+- **工具链**：VS Code, Git/GitHub, Adobe Illustrator, GitBook
+- **语言能力**：英语专业八级，技术文档翻译与本地化
+- **软技能**：从外贸销售经验中获得的用户同理心与产品思维
 
-## 🚀 About Me
+## 📂 项目展示
+### 1. 开源文档贡献
+- [项目名称]：贡献了XXX文档，修复了XXX问题（附PR链接）
+- 持续寻找并参与开源项目的文档改进
 
-- 💼 **Goal:**  to get **offer** as a Technical Writer
-- 🛠️ **Top Skills:**  TEM-8, learning skills, result-driving
-- 🌱 **Currently Learning:**  Markdown,VS code, Git, Trados,Oxygen XML, AI,technical writing skills(DITA)
+### 2. 虚拟文档项目
+- 为 [某虚构产品] 编写完整用户手册
+- 包含：安装指南、快速入门、故障排除
 
----
+## 📚 学习历程
+我正在系统学习技术文档工程师所需技能，详细笔记请见：[学习笔记目录](/learning-notes/)
 
-## 📫 Connect with Me
-
-- [Email]():13717601318@163.com
-
----
-
-> _“Prepare well and get it.”_  
-
----
-
-Thanks for visiting! Feel free to explore my repositories, open an issue, or reach out—I'm always excited to connect and collaborate.
-
+## 📞 联系我
+- 邮箱：13717601318@163.com
+- 欢迎查看我的完整作品集：[GitBook站点链接]（部署后添加）
