@@ -7,10 +7,9 @@ Here you'll find a collection of what I have done to promote myself for future c
 
 ## 🚀 About Me
 
-- 💼 **Goal:**  to get the offer as Technical Writer in Dji
-- 🛠️ **Top Skills:**  TEM-8 and learning skills
-- 🌱 **Currently Learning:**  Products from Dji,Regulations
-- 💡 **Tools:**   Oxygen XML, Git, Trados, Markdown
+- 💼 **Goal:**  to get **offer** as a Technical Writer
+- 🛠️ **Top Skills:**  TEM-8, learning skills, result-driving
+- 🌱 **Currently Learning:**  Markdown,VS code, Git, Trados,Oxygen XML, AI,technical writing skills(DITA)
 
 ---
 
