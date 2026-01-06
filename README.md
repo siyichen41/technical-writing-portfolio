@@ -13,21 +13,6 @@ Here you'll find a collection of what I have done to promote myself for future c
 
 ---
 
-## 📈 GitHub Stats
-
-![Siyichen's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyichen41&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyichen41&layout=compact)
-
----
-
-## ✨ Featured Projects
-
-<!-- Add links and short descriptions of your favorite or most proud projects below -->
-- [Project Name](https://github.com/siyichen41/project-name): How to be a TW
-- [Another Project](https://github.com/siyichen41/another-project): Terms collection
-
----
-
 ## 📫 Connect with Me
 
 - [Email]():13717601318@163.com
